@@ -7,6 +7,7 @@
     "name": "ms-a-"
   },
   "devDependencies": {
-    "@types/node": "^6.0.87"
+    "@types/node": "^6.0.87",
+    "mocha": "^5.0.5"
   }
 }

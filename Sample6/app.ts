@@ -1,1 +1,2 @@
-﻿console.log('Hello world');
+﻿let message = "Good evening!";
+console.info(message);
